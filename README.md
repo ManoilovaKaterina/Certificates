@@ -1,2 +1,2 @@
 ## Coursera
-This is a storage for my Coursera certificates.
+This is a storage for my certificates.
