@@ -1,2 +1,2 @@
-## Coursera
-This is a storage for my certificates.
+## Certificates storage
+This is a repository for my certificates.
